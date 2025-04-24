@@ -232,3 +232,4 @@ export default function MomosRental() {
     </div>
   );
 }
+export default MomosRental;
