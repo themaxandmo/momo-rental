@@ -85,7 +85,7 @@ const items = [
   },
 ];
 
-export default function MomosRental() {
+function MomosRental() {
   const [form, setForm] = useState({
     name: "",
     email: "",
@@ -232,4 +232,6 @@ export default function MomosRental() {
     </div>
   );
 }
+
 export default MomosRental;
+
